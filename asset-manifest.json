@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dz-incubator/static/css/main.13fd7530.css",
+    "main.js": "/dz-incubator/static/js/main.97f2d04d.js",
+    "static/js/787.66cb4309.chunk.js": "/dz-incubator/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/dz-incubator/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/dz-incubator/index.html",
+    "main.13fd7530.css.map": "/dz-incubator/static/css/main.13fd7530.css.map",
+    "main.97f2d04d.js.map": "/dz-incubator/static/js/main.97f2d04d.js.map",
+    "787.66cb4309.chunk.js.map": "/dz-incubator/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13fd7530.css",
+    "static/js/main.97f2d04d.js"
+  ]
+}
